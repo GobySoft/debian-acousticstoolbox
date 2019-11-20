@@ -1,0 +1,24 @@
+This work was packaged for Debian by:
+
+    Toby Schneider <tes.aubergine@gmail.com> on Wed May  8 15:59:55 EDT 2013
+
+It was downloaded from:
+
+   http://oalib.hlsresearch.com/Modes/AcousticsToolbox/
+
+Upstream Author(s):
+
+    Michael Porter michael.porter@HLSResearch.com
+    
+Copyright:
+    (C) 2009 Michael B. Porter
+
+License:
+    The Acoustics Toolbox is distributed under the GNU Public License. No version is specified.
+
+The Debian packaging is:
+
+    Copyright (C) 2013 Toby Schneider <tes.aubergine@gmail.com>
+
+and is licensed under the GPL version 3,
+see "/usr/share/common-licenses/GPL-3".
