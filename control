@@ -1,7 +1,7 @@
 Source: acousticstoolbox
 Priority: extra
 Maintainer: Toby Schneider <tes.aubergine@gmail.com>
-Build-Depends: cdbs, debhelper (>= 7.0.50~), gfortran
+Build-Depends: cdbs, gfortran, debhelper (>= 9~)
 Standards-Version: 4.0.0
 Section: science
 Homepage: http://oalib.hlsresearch.com/Modes/AcousticsToolbox/
@@ -9,5 +9,4 @@ Homepage: http://oalib.hlsresearch.com/Modes/AcousticsToolbox/
 Package: acousticstoolbox
 Section: science
 Architecture: any
-Depends: 
 Description: The Acoustics Toolbox contains BELLHOP and KRAKEN, two programs for numerical prediction of acoustic fields in ocean environments. BELLHOP is a beam tracing model; KRAKEN is a normal modes model.

@@ -6,3 +6,5 @@ include /usr/share/cdbs/1/class/makefile.mk
 
 # Add here any variable or target overrides you need.
 
+DEB_MAKE_INSTALL_TARGET=install
+

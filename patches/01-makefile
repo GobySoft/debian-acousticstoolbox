@@ -1,0 +1,12 @@
+Index: acousticstoolbox-19.03/Makefile
+===================================================================
+--- acousticstoolbox-19.03.orig/Makefile
++++ acousticstoolbox-19.03/Makefile
+@@ -171,6 +171,7 @@ all:
+ 	@echo "***********************************"
+ 
+ install:
++	@mkdir -p bin
+ 	(cd misc;	make -k all)
+ 	(cd tslib;	make -k all)
+ 	(cd Bellhop;	make -k install)

@@ -1,3 +1,15 @@
+acousticstoolbox (19.03-0~ubuntu16.04.1) xenial; urgency=medium
+
+  * Downgrade debhelper version
+
+ -- Toby Schneider <toby@gobysoft.org>  Wed, 20 Nov 2019 12:44:59 -0500
+
+acousticstoolbox (19.03-0~ubuntu16.04) xenial; urgency=medium
+
+  * New upstream release (March 2019)
+
+ -- Toby Schneider <toby@gobysoft.org>  Wed, 20 Nov 2019 12:01:36 -0500
+
 acousticstoolbox (10-09+bzr2-0tes1~precise1) precise; urgency=low
 
   * Initial release
