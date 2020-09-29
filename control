@@ -1,7 +1,7 @@
 Source: acousticstoolbox
 Priority: extra
 Maintainer: Toby Schneider <tes.aubergine@gmail.com>
-Build-Depends: cdbs, gfortran, debhelper (>= 9~)
+Build-Depends: cdbs, gfortran-7, debhelper (>= 9~)
 Standards-Version: 4.0.0
 Section: science
 Homepage: http://oalib.hlsresearch.com/Modes/AcousticsToolbox/

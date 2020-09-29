@@ -1,4 +1,4 @@
-acousticstoolbox (19.03-0~ubuntu16.04.1) xenial; urgency=medium
+acousticstoolbox (19.03-0~ubuntu20.04.1) focal; urgency=medium
 
   * Downgrade debhelper version
 
