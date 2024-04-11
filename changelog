@@ -1,3 +1,9 @@
+acousticstoolbox (23.05-0~ubuntu22.04.1) jammy; urgency=medium
+
+  * New upstream version
+
+ -- Toby Schneider <toby@gobysoft.org>  Thu, 11 Apr 2024 14:59:20 -0400
+
 acousticstoolbox (19.03-0~ubuntu22.04.1) jammy; urgency=medium
 
   * Build for jammy

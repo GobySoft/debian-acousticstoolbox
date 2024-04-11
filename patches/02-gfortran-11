@@ -1,0 +1,13 @@
+Index: acousticstoolbox-23.05/Makefile
+===================================================================
+--- acousticstoolbox-23.05.orig/Makefile
++++ acousticstoolbox-23.05/Makefile
+@@ -106,7 +106,7 @@ export FFLAGS= -nologo     -inline-level
+ # At one time that was necessary to get the AVX operations; however, I saw no speed benefit
+ # -march=corei7-avx works on my Mac
+ 
+-export FC=gfortran
++export FC=gfortran-11
+ 
+ # export FFLAGS= -march=native  -Wall -std=gnu -O3 -ffast-math -funroll-all-loops -msse3 -fomit-frame-pointer -mtune=native -Q
+ # export FFLAGS= -march=corei7 -Bstatic -Waliasing -Wampersand -Wsurprising -Wintrinsics-std -Wno-tabs -Wintrinsic-shadow -Wline-truncation       -std=f2008 -O3 -ffast-math -funroll-all-loops -fomit-frame-pointer -mtune=native
